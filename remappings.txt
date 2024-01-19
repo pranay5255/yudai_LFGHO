@@ -1,0 +1,9 @@
+ds-test/=lib/forge-std/lib/ds-test/src/
+openzeppelin-contracts/=lib/openzeppelin-contracts/
+forge-std/=lib/forge-std/src/
+aave-v3-core/=lib/static-a-token-v3/lib/aave-v3-core/
+aave-v3-periphery/=lib/static-a-token-v3/lib/aave-v3-periphery/
+solidity-utils/=lib/static-a-token-v3/lib/solidity-utils/src/
+aave-address-book/=lib/static-a-token-v3/lib/aave-address-book/src/
+aave-helpers/=lib/static-a-token-v3/lib/aave-helpers/src/
+staticToken/=lib/static-a-token-v3/src/
